@@ -73,3 +73,4 @@ solution = [["A","0"]]
 #solution =[["A","0"]]
  
 isCryptSolution(crypt, solution)
+      
